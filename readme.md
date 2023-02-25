@@ -1,7 +1,9 @@
 # Mapty App
 
 ## Links
-[Mapty]()
+
+[Mapty](https://pratyush-dehury.github.io/Mapty/)
 
 ## Used libraries
+
 - Leaflet
